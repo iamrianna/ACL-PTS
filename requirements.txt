@@ -1,0 +1,9 @@
+streamlit>=1.35
+numpy>=1.24
+scipy>=1.10
+scikit-image>=0.21
+pillow>=10.1
+pandas>=2.0
+matplotlib>=3.7
+# optional: only needed if you plug in trained ONNX models
+# onnxruntime>=1.17
